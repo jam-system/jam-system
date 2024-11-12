@@ -1,0 +1,9 @@
+/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir
+/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/CMakeFiles/edit_cache.dir
+/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/CMakeFiles/rebuild_cache.dir
+/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/CMakeFiles/list_install_components.dir
+/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/CMakeFiles/install.dir
+/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/CMakeFiles/install/local.dir
+/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/CMakeFiles/install/strip.dir
+/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets_autogen_timestamp_deps.dir
+/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets_autogen.dir

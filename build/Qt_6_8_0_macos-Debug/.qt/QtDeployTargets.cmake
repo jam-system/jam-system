@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_JamS8_FilmScannerUI_Qt6_Widgets_FILE /Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/JamS8_FilmScannerUI_Qt6_Widgets.app/Contents/MacOS/JamS8_FilmScannerUI_Qt6_Widgets)
+set(__QT_DEPLOY_TARGET_JamS8_FilmScannerUI_Qt6_Widgets_TYPE EXECUTABLE)
