@@ -425,6 +425,12 @@
 			null
 		],
 		[
+			"/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/imageform.h",
+			"MU",
+			"EWIEGA46WW/moc_imageform.cpp",
+			null
+		],
+		[
 			"/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/jamdatabase.h",
 			"MU",
 			"EWIEGA46WW/moc_jamdatabase.cpp",
@@ -513,6 +519,11 @@
 	[
 		[
 			"/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/dbdialogs.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/imageform.cpp",
 			"MU",
 			null
 		],
