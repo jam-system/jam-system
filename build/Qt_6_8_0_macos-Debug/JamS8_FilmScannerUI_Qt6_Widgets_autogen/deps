@@ -267,7 +267,6 @@ JamS8_FilmScannerUI_Qt6_Widgets_autogen/timestamp: \
 	/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QDialog \
 	/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QLabel \
 	/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
-	/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QWidget \
 	/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qdialog.h \
 	/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \
 	/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qlabel.h \
@@ -536,8 +535,6 @@ JamS8_FilmScannerUI_Qt6_Widgets_autogen/timestamp: \
 	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/JamS8_FilmScannerUI_Qt6_Widgets_autogen/moc_predefs.h \
 	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/dbdialogs.cpp \
 	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/dbdialogs.h \
-	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/imageform.cpp \
-	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/imageform.h \
 	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/jamdatabase.cpp \
 	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/jamdatabase.h \
 	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/main.cpp \
@@ -546,6 +543,5 @@ JamS8_FilmScannerUI_Qt6_Widgets_autogen/timestamp: \
 	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/tcpclient.cpp \
 	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/tcpclient.h \
 	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/dbdialogs.ui \
-	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/imageform.ui \
 	/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/mainwindow.ui \
 	/Users/jameelberg/Qt6/Tools/CMake/CMake.app/Contents/bin/cmake

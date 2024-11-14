@@ -97,14 +97,6 @@ build CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/dbdialogs.cpp.o: CXX_COMPIL
   OBJECT_DIR = CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir
   OBJECT_FILE_DIR = CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir
 
-build CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/imageform.cpp.o: CXX_COMPILER__JamS8_FilmScannerUI_Qt6_Widgets_unscanned_Debug /Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/imageform.cpp || cmake_object_order_depends_target_JamS8_FilmScannerUI_Qt6_Widgets
-  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB
-  DEP_FILE = CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/imageform.cpp.o.d
-  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fcolor-diagnostics
-  INCLUDES = -I/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/JamS8_FilmScannerUI_Qt6_Widgets_autogen/include -isystem /Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Headers -iframework /Users/jameelberg/Qt6/6.8.0/macos/lib -isystem /Users/jameelberg/Qt6/6.8.0/macos/mkspecs/macx-clang -isystem /Users/jameelberg/Qt6/6.8.0/macos/include -isystem /Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Headers -isystem /Users/jameelberg/Qt6/6.8.0/macos/lib/QtGui.framework/Headers -isystem /Users/jameelberg/Qt6/6.8.0/macos/lib/QtNetwork.framework/Headers -isystem /Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Headers
-  OBJECT_DIR = CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir
-  OBJECT_FILE_DIR = CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target JamS8_FilmScannerUI_Qt6_Widgets
@@ -113,7 +105,7 @@ build CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/imageform.cpp.o: CXX_COMPIL
 #############################################
 # Link the executable JamS8_FilmScannerUI_Qt6_Widgets.app/Contents/MacOS/JamS8_FilmScannerUI_Qt6_Widgets
 
-build JamS8_FilmScannerUI_Qt6_Widgets.app/Contents/MacOS/JamS8_FilmScannerUI_Qt6_Widgets: CXX_EXECUTABLE_LINKER__JamS8_FilmScannerUI_Qt6_Widgets_Debug CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/JamS8_FilmScannerUI_Qt6_Widgets_autogen/mocs_compilation.cpp.o CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/main.cpp.o CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/mainwindow.cpp.o CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/tcpclient.cpp.o CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/jamdatabase.cpp.o CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/dbdialogs.cpp.o CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/imageform.cpp.o | /Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/jameelberg/Qt6/6.8.0/macos/lib/QtNetwork.framework/Versions/A/QtNetwork /Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/QtSql /Users/jameelberg/Qt6/6.8.0/macos/lib/QtGui.framework/Versions/A/QtGui /Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/QtCore || JamS8_FilmScannerUI_Qt6_Widgets_autogen JamS8_FilmScannerUI_Qt6_Widgets_autogen_timestamp_deps
+build JamS8_FilmScannerUI_Qt6_Widgets.app/Contents/MacOS/JamS8_FilmScannerUI_Qt6_Widgets: CXX_EXECUTABLE_LINKER__JamS8_FilmScannerUI_Qt6_Widgets_Debug CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/JamS8_FilmScannerUI_Qt6_Widgets_autogen/mocs_compilation.cpp.o CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/main.cpp.o CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/mainwindow.cpp.o CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/tcpclient.cpp.o CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/jamdatabase.cpp.o CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets.dir/dbdialogs.cpp.o | /Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/jameelberg/Qt6/6.8.0/macos/lib/QtNetwork.framework/Versions/A/QtNetwork /Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/QtSql /Users/jameelberg/Qt6/6.8.0/macos/lib/QtGui.framework/Versions/A/QtGui /Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/QtCore || JamS8_FilmScannerUI_Qt6_Widgets_autogen JamS8_FilmScannerUI_Qt6_Widgets_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk
   LINK_LIBRARIES = -Wl,-rpath,/Users/jameelberg/Qt6/6.8.0/macos/lib  /Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets  /Users/jameelberg/Qt6/6.8.0/macos/lib/QtNetwork.framework/Versions/A/QtNetwork  /Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/QtSql  /Users/jameelberg/Qt6/6.8.0/macos/lib/QtGui.framework/Versions/A/QtGui  -framework OpenGL  -framework AGL  -framework AppKit  -framework ImageIO  -framework Metal  /Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/QtCore  -framework IOKit  -framework DiskArbitration  -framework UniformTypeIdentifiers
   LINK_PATH = -F/Users/jameelberg/Qt6/6.8.0/macos/lib
@@ -199,7 +191,7 @@ build JamS8_FilmScannerUI_Qt6_Widgets_autogen_timestamp_deps: phony
 #############################################
 # Utility command for JamS8_FilmScannerUI_Qt6_Widgets_autogen
 
-build JamS8_FilmScannerUI_Qt6_Widgets_autogen: phony CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets_autogen JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_mainwindow.h JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_dbdialogs.h JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_imageform.h JamS8_FilmScannerUI_Qt6_Widgets_autogen/timestamp JamS8_FilmScannerUI_Qt6_Widgets_autogen/mocs_compilation.cpp JamS8_FilmScannerUI_Qt6_Widgets_autogen_timestamp_deps
+build JamS8_FilmScannerUI_Qt6_Widgets_autogen: phony CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets_autogen JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_mainwindow.h JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_dbdialogs.h JamS8_FilmScannerUI_Qt6_Widgets_autogen/timestamp JamS8_FilmScannerUI_Qt6_Widgets_autogen/mocs_compilation.cpp JamS8_FilmScannerUI_Qt6_Widgets_autogen_timestamp_deps
 
 
 #############################################
@@ -216,7 +208,7 @@ build JamS8_FilmScannerUI_Qt6_Widgets_autogen/timestamp JamS8_FilmScannerUI_Qt6_
 #############################################
 # Phony custom command for CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets_autogen
 
-build CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets_autogen JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_mainwindow.h JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_dbdialogs.h JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_imageform.h | ${cmake_ninja_workdir}CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets_autogen ${cmake_ninja_workdir}JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_mainwindow.h ${cmake_ninja_workdir}JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_dbdialogs.h ${cmake_ninja_workdir}JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_imageform.h: phony JamS8_FilmScannerUI_Qt6_Widgets_autogen/timestamp || JamS8_FilmScannerUI_Qt6_Widgets_autogen_timestamp_deps
+build CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets_autogen JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_mainwindow.h JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_dbdialogs.h | ${cmake_ninja_workdir}CMakeFiles/JamS8_FilmScannerUI_Qt6_Widgets_autogen ${cmake_ninja_workdir}JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_mainwindow.h ${cmake_ninja_workdir}JamS8_FilmScannerUI_Qt6_Widgets_autogen/include/ui_dbdialogs.h: phony JamS8_FilmScannerUI_Qt6_Widgets_autogen/timestamp || JamS8_FilmScannerUI_Qt6_Widgets_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.

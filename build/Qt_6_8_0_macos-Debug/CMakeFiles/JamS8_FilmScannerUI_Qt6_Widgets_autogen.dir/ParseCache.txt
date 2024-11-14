@@ -363,12 +363,15 @@
  mdp:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h
  mdp:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/wait.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/QByteArray
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/QDebug
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/QObject
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/QRegularExpression
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/q20iterator.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/q23utility.h
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qabstractitemmodel.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qanystringview.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qarraydata.h
@@ -422,6 +425,7 @@
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qmargins.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qmath.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qmetacontainer.h
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qmetaobject.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qmetatype.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qminmax.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qnamespace.h
@@ -436,6 +440,7 @@
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qrect.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qrefcount.h
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qregularexpression.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtCore.framework/Versions/A/Headers/qset.h
@@ -519,8 +524,22 @@
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtNetwork.framework/Versions/A/Headers/qtnetwork-config.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtNetwork.framework/Versions/A/Headers/qtnetworkexports.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtNetwork.framework/Versions/A/Headers/qtnetworkglobal.h
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlDatabase
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlError
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlQuery
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/Headers/QSqlTableModel
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqldatabase.h
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqlerror.h
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqlquery.h
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqlquerymodel.h
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/Headers/qsqltablemodel.h
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsql-config.h
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlexports.h
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlglobal.h
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QDialog
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QLabel
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow
+ mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qdialog.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qframe.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qlabel.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h
@@ -531,6 +550,8 @@
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h
  mdp:/Users/jameelberg/Qt6/6.8.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h
  mdp:/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/build/Qt_6_8_0_macos-Debug/JamS8_FilmScannerUI_Qt6_Widgets_autogen/moc_predefs.h
+ mdp:/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/dbdialogs.h
+ mdp:/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/jamdatabase.h
  mdp:/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/mainwindow.h
  mdp:/Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/tcpclient.h
 /Users/jameelberg/Qt_Projects/JamS8_FilmScannerUI_Qt6_Widgets/jamdatabase.cpp
