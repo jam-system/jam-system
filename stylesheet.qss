@@ -1,0 +1,67 @@
+
+QPushButton {
+    background-color: gray;
+    color: white;
+    border-radius: 4px;
+}
+
+QPushButton:hover {
+    background-color: green;
+}
+QPushButton:pressed {
+    background-color: darkgray;
+    color: white;
+    border: 3px solid red;
+}
+QCheckBox {
+    background: none;
+    border: 3px solid #5A5A5A;
+    background: gray;
+    color: white;
+}
+
+
+
+/* Enabled unchecked check box indicator style. For example preview check box */
+QCheckBox::indicator:enabled:unchecked {
+    border: 2px solid #969696;
+    border-radius: 4px;
+    background-color: rgb(70, 70, 70);
+}
+
+/* Enabled checked check box indicator style */
+QCheckBox::indicator:enabled:checked {
+    border: 2px solid #969696;
+    border-radius: 4px;
+    background-color: rgb(180, 0, 0);
+}
+/* Enabled label color */
+QLabel::enabled {
+    color: white;
+}
+
+/* Group box style */
+QGroupBox {
+    background-color: #aaaaaa;
+    border: 2px solid #969696;
+    margin-top: 3px;
+    border-radius: 8px;
+}
+
+
+/* Group box style */
+QGroupBox#mainGroup {
+    background-color: rgb(70, 70, 70);
+    border: 2px solid #969696;
+    margin-top: 3px;
+}
+
+/* Enabled spin box an double spin box style. For example last frame spin box */
+QSpinBox, QDoubleSpinBox{
+    border: 2px solid #969696;
+    border-radius: 4px;
+    background-color: rgb(50, 50, 50);
+    selection-background-color: rgb(0, 80, 0);
+    color: white);
+}
+
